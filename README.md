@@ -31,7 +31,3 @@ Fitness And Gym Apps:
 
 https://apps.apple.com/us/app/daily-fun-workout/id1481714059
 
-Education Apps:
-
-https://apps.apple.com/us/app/free-fall-speed/id1484137229
-https://apps.apple.com/us/app/newton-motion-laws/id1485119439
