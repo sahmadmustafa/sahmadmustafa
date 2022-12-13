@@ -4,8 +4,9 @@
 - 💞️ I’m looking to collaborate on Native iOS Scripts
 - 📫 Reach me out at my WhatsApp:+923334481262
 
-<!---
+
 I specialize in complete product life cycles that utilize a partnership approach to client engagements, i focus on emerging technologies for a full range of cutting‐edge IT development services. Specifically, My team of qualified professionals will prove with dedication and commitment to be the leading developer of applications for the iPhone as this platform creates a new computing paradigm.
+<!---
 
 sahmadmustafa/sahmadmustafa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
