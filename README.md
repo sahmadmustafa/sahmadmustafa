@@ -24,6 +24,17 @@ https://apps.apple.com/us/app/familytime-jr/id1002010477
 
 https://itunes.apple.com/nz/app/qist/id1023155477?mt=8
 
+
+# Wall-Paint-App-iOS
+Open CV complete Wall painting runnable solution for the programmers who wish to know how Open CV image filters work with custom libraries.
+# Similar Apps
+We can relate many similar app here given as follows:
+# Paint My Wall - Room Painting
+https://apps.apple.com/us/app/paint-my-wall-room-painting/id542998115
+# Example Image of app
+![Screenshot 2022-12-13 at 5 50 31 AM](https://user-images.githubusercontent.com/25474407/207199426-3b1d2088-4be0-41ce-8e21-765e5c9f1d28.png)
+
+
 # Neeo(Multilingual translated chat)
 
 ![Screenshot 2022-12-13 at 5 58 20 AM](https://user-images.githubusercontent.com/25474407/207200177-0dc5045f-d368-4cc3-ba42-569be074c548.png)
