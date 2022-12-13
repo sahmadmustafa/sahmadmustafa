@@ -13,6 +13,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # Parental Control Apps:
+
+![Screenshot 2022-12-13 at 5 55 10 AM](https://user-images.githubusercontent.com/25474407/207199890-597cacec-d576-4980-ae0d-4eb68d81fffc.png)
+
 https://apps.apple.com/us/app/familytime-parental-controls/id981066103
 
 https://apps.apple.com/us/app/familytime-jr/id1002010477
@@ -23,12 +26,19 @@ https://itunes.apple.com/nz/app/qist/id1023155477?mt=8
 
 # Neeo(Multilingual translated chat)
 
+![Screenshot 2022-12-13 at 5 58 20 AM](https://user-images.githubusercontent.com/25474407/207200177-0dc5045f-d368-4cc3-ba42-569be074c548.png)
+
+
+
 https://itunes.apple.com/az/app/neeo-free-chat-conversation-translation-calling-texting/id629518300?mt=8
 
 # ADCB Bank App:
 https://itunes.apple.com/pk/app/adcb/id547172388?mt=8
 
 # Qondo(Services based Apps)
+
+![Screenshot 2022-12-13 at 5 57 30 AM](https://user-images.githubusercontent.com/25474407/207200074-255bf46e-d030-41ed-85ce-9c7c98c6c837.png)
+
 
 https://itunes.apple.com/us/app/qondo/id1224486920?ls=1&mt=8
 
@@ -39,7 +49,14 @@ https://apps.apple.com/us/app/engine-displacement-cal/id1483284000?ls=1
 # Religious Apps:
 https://apps.apple.com/us/app/listen-saudalshuraim-qirat/id1481144156
 
+# Gym Apps:
+
 # Fitness And Gym Apps:
 
+![Screenshot 2022-12-13 at 5 59 17 AM](https://user-images.githubusercontent.com/25474407/207200309-3d459246-260d-4cda-9a34-f7cf5fb9888a.png)
+
+
 https://apps.apple.com/us/app/daily-fun-workout/id1481714059
+
+
 
