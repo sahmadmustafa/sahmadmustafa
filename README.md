@@ -11,13 +11,18 @@ I specialize in complete product life cycles that utilize a partnership approach
 sahmadmustafa/sahmadmustafa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+# Finance App(Related to Taxation and Enquiry):
+![Screenshot 2022-12-23 at 12 40 08 AM](https://user-images.githubusercontent.com/25474407/209213465-f2ff6c93-e93c-43df-b826-d89dc701ff53.png)
+Here is a Link:
+https://apps.apple.com/us/app/infotaxsquare/id6444351820
 
 # Parental Control Apps:
 
 ![Screenshot 2022-12-13 at 5 55 10 AM](https://user-images.githubusercontent.com/25474407/207199890-597cacec-d576-4980-ae0d-4eb68d81fffc.png)
+![Screenshot 2022-12-23 at 12 41 17 AM](https://user-images.githubusercontent.com/25474407/209213595-7f538e41-085f-4630-a668-9736271fc8e4.png)
 
+Here are Links:
 https://apps.apple.com/us/app/familytime-parental-controls/id981066103
-
 https://apps.apple.com/us/app/familytime-jr/id1002010477
 
 # Qist App for newZealand(Entrprize Solution)
