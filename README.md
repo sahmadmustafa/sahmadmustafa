@@ -6,6 +6,10 @@
 
 
 I specialize in complete product life cycles that utilize a partnership approach to client engagements, i focus on emerging technologies for a full range of cutting‐edge IT development services. Specifically, My team of qualified professionals will prove with dedication and commitment to be the leading developer of applications for the iPhone as this platform creates a new computing paradigm.
+
+🤝🏻  Connect with Me
+Reach me out at my WhatsApp:+923334481262
+      
 <!---
 
 sahmadmustafa/sahmadmustafa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -55,7 +59,7 @@ https://itunes.apple.com/pk/app/adcb/id547172388?mt=8
 
 ![Screenshot 2022-12-13 at 5 57 30 AM](https://user-images.githubusercontent.com/25474407/207200074-255bf46e-d030-41ed-85ce-9c7c98c6c837.png)
 
-
+Here is a link:
 https://itunes.apple.com/us/app/qondo/id1224486920?ls=1&mt=8
 
 # Scientific Learning App:
