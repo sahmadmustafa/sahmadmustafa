@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 # Finance App(Related to Taxation and Enquiry):
 ![Screenshot 2022-12-23 at 12 40 08 AM](https://user-images.githubusercontent.com/25474407/209213465-f2ff6c93-e93c-43df-b826-d89dc701ff53.png)
 Here is a Link:
-https://apps.apple.com/us/app/infotaxsquare/id6444351820
+![Screenshot 2022-12-23 at 12 40 08 AM](https://apps.apple.com/us/app/infotaxsquare/id6444351820)
 
 # Parental Control Apps:
 
