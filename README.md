@@ -26,12 +26,12 @@ Here is a Link:
 ![Screenshot 2022-12-23 at 12 41 17 AM](https://user-images.githubusercontent.com/25474407/209213595-7f538e41-085f-4630-a668-9736271fc8e4.png)
 
 Here are Links:
-https://apps.apple.com/us/app/familytime-parental-controls/id981066103
-https://apps.apple.com/us/app/familytime-jr/id1002010477
+[iOS](https://apps.apple.com/us/app/familytime-parental-controls/id981066103)
+[iOS](https://apps.apple.com/us/app/familytime-jr/id1002010477)
 
 # Qist App for newZealand(Entrprize Solution)
 
-https://itunes.apple.com/nz/app/qist/id1023155477?mt=8
+[iOS](https://itunes.apple.com/nz/app/qist/id1023155477?mt=8)
 
 
 # Wall-Paint-App-iOS
@@ -60,7 +60,7 @@ https://itunes.apple.com/pk/app/adcb/id547172388?mt=8
 ![Screenshot 2022-12-13 at 5 57 30 AM](https://user-images.githubusercontent.com/25474407/207200074-255bf46e-d030-41ed-85ce-9c7c98c6c837.png)
 
 Here is a link:
-https://itunes.apple.com/us/app/qondo/id1224486920?ls=1&mt=8
+[iOS](https://itunes.apple.com/us/app/qondo/id1224486920?ls=1&mt=8)
 
 # Scientific Learning App:
 
@@ -75,8 +75,8 @@ https://apps.apple.com/us/app/listen-saudalshuraim-qirat/id1481144156
 
 ![Screenshot 2022-12-13 at 5 59 17 AM](https://user-images.githubusercontent.com/25474407/207200309-3d459246-260d-4cda-9a34-f7cf5fb9888a.png)
 
-
-https://apps.apple.com/us/app/daily-fun-workout/id1481714059
+Hee is a link:
+[iOS](https://apps.apple.com/us/app/daily-fun-workout/id1481714059)
 
 
 
