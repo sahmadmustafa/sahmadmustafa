@@ -26,8 +26,8 @@ Here is a Link:
 ![Screenshot 2022-12-23 at 12 41 17 AM](https://user-images.githubusercontent.com/25474407/209213595-7f538e41-085f-4630-a668-9736271fc8e4.png)
 
 Here are Links:
-[iOS](https://apps.apple.com/us/app/familytime-parental-controls/id981066103)
-[iOS](https://apps.apple.com/us/app/familytime-jr/id1002010477)
+[Parent App iOS](https://apps.apple.com/us/app/familytime-parental-controls/id981066103)
+[Child App iOS](https://apps.apple.com/us/app/familytime-jr/id1002010477)
 
 # Qist App for newZealand(Entrprize Solution)
 
