@@ -27,6 +27,7 @@ Here is a Link:
 
 Here are Links:
 [Parent App iOS](https://apps.apple.com/us/app/familytime-parental-controls/id981066103)
+
 [Child App iOS](https://apps.apple.com/us/app/familytime-jr/id1002010477)
 
 # Qist App for newZealand(Entrprize Solution)
@@ -48,9 +49,8 @@ https://apps.apple.com/us/app/paint-my-wall-room-painting/id542998115
 
 ![Screenshot 2022-12-13 at 5 58 20 AM](https://user-images.githubusercontent.com/25474407/207200177-0dc5045f-d368-4cc3-ba42-569be074c548.png)
 
-
-
-https://itunes.apple.com/az/app/neeo-free-chat-conversation-translation-calling-texting/id629518300?mt=8
+Here is a link:
+[iOS](https://itunes.apple.com/az/app/neeo-free-chat-conversation-translation-calling-texting/id629518300?mt=8)
 
 # ADCB Bank App:
 https://itunes.apple.com/pk/app/adcb/id547172388?mt=8
