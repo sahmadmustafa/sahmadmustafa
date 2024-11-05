@@ -9,6 +9,7 @@ I specialize in complete product life cycles that utilize a partnership approach
 
 🤝🏻  Connect with Me
 Reach me out at my WhatsApp:+923334481262
+[whatsapp](https://wa.me/+923334481262
       
 <!---
 
