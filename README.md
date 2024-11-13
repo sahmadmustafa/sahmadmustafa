@@ -100,7 +100,6 @@ Here is a link:
 
 
 
-
 # Fitness And Gym Apps:
 
 ![Screenshot 2022-12-13 at 5 59 17 AM](https://user-images.githubusercontent.com/25474407/207200309-3d459246-260d-4cda-9a34-f7cf5fb9888a.png)
